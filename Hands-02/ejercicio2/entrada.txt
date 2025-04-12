@@ -1,0 +1,4 @@
+int x = 10; // Esto es un comentario
+/* Comentario
+   multilínea */
+char* s = "Hola mundo";
